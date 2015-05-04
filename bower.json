@@ -1,0 +1,25 @@
+{
+  "name": "au-template",
+  "version": "0.1.1",
+  "main": [
+    "./dist/au-template.js"
+  ],
+  "keywords": [
+    "template"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "license": "MIT",
+  "authors": [
+    "lico liu <lico.atom@gmail.com> (https://github.com/licoliu)"
+  ],
+  "homepage": "https://github.com/licoliu/au-template"
+}
